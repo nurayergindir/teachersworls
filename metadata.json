@@ -1,0 +1,6 @@
+{
+  "name": "Öğretmen Dünyası & Eğitsel Oyun Platformu",
+  "description": "Öğretmen alanı, canlı eğitici oyunlar, ilham verici eğitim sözleri ve canlı takvim/saat içeren interaktif eğitim portalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
